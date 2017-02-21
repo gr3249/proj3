@@ -1,9 +1,3 @@
- /*
- * Author:  Mark A. Indovina
- *          Rochester, NY, USA
- *
- */
-
 
 `timescale 1ns / 1ns
 `define stop(a)\
