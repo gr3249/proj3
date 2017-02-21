@@ -1,11 +1,3 @@
-
-/*
- *
- * Author:  Mark A. Indovina
- *          Rochester, NY, USA
- *
- */
-
 module arb (
            reset,
            clk,
